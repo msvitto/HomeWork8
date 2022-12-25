@@ -1,0 +1,76 @@
+.main{
+    background-color: #C4C4C4;
+    margin: 0 auto;
+} 
+.container{
+    width: 1000px;
+    margin: 0 auto 50px;
+    display: block;
+}
+.number{
+    font-size: 64px;
+    color:white;
+    text-align: center;
+    line-height: 200px;
+}
+.pink{
+    background-color: #FC8F8F;
+    height: 200px;
+    width: 200px;
+}
+p{
+    background-color: #E6E6E6;
+    color: #E6E6E6;
+    }
+    
+.b{
+    float: left;
+}
+.n{
+    float: right;
+}
+.count{
+    font-size: 36px;
+    color:white;
+    text-align: center;
+    line-height: 100px;
+}
+.red{
+    background-color: #FC8F8F;
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}
+.c {
+    float: left;
+}
+.block{
+    float: right;
+}
+.d {
+    display: inline-block;
+}
+.e {
+    display: inline-block;
+}
+.f {
+    display: inline-block;
+}
+.g {
+    display: inline-block;
+} 
+.i {
+    float: left;
+    margin-right: 20px;
+}
+.m {
+    float: left;
+}
+.k {
+    float:right;
+    margin-left: 20px;
+}
+.l {
+    float:right;
+}
+
