@@ -5,7 +5,7 @@
     padding-top: 50px;
 } 
 .container{
-    width: 1000px;
+    max-width: 1000px;
     margin: 0 auto 50px;
     display: block;
 }
@@ -15,7 +15,7 @@
     text-align: center;
     line-height: 200px;
 }
-.pink{
+.square-pink{
     background-color: #FC8F8F;
     height: 200px;
     width: 200px;
@@ -23,6 +23,8 @@
 p{
     background-color: #E6E6E6;
     color: #E6E6E6;
+    width: 1000px;
+    height: 200px;
     }
     
 .b{
@@ -37,7 +39,7 @@ p{
     text-align: center;
     line-height: 100px;
 }
-.red{
+.square-red{
     background-color: #FC8F8F;
     height: 100px;
     width: 100px;
