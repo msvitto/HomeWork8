@@ -21,10 +21,10 @@
     width: 200px;
 }
 p{
+    max-width: 1000px;
+    height: 200px;
     background-color: #E6E6E6;
-    color: #E6E6E6;
-    }
-    
+}   
 .b{
     float: left;
 }
